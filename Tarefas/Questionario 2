@@ -1,0 +1,104 @@
+Data: 09/03/2017
+
+1 – Por que o Linux recebeu esse nome?
+
+   	Vem da mesclagem do nome do criador, Linus, com o nome Unix. Unix é um sistema operacional de grande porte que inspirou a criação do Linux.
+
+2 -  O que são daemons?
+
+   	É um programa que executa em segundo plano, que controla segmentos em funcionamento sem necessariamente estar sendo gerenciado pelo usuário, diretamente.
+
+3 – O que é shell?
+
+   	Faz o intercambio entre o o usuário de o kernel(núcleo) do sistema.
+
+4 – Por que é importante evitar executar o terminal como super-usuário?
+
+   	O modo super-usuário pode modificar permanentemente o Kernel do sistema, logo, é preciso ter cuidado ao utiliza-lo.
+
+5 – Qual botão do teclado completa o que o usuário escreve no terminal, de acordo com o contexto?
+
+	Botão Tab.
+
+6- Quais os botões do teclado apresentam instruções escritas anteriormente?
+
+	Botões Up e down.
+
+7 – Apresente os respectivos comando no terminar para:
+
+a) Obter mais informações sobre um comando
+
+	man “comando”
+
+b) Apresentar uma lista com os aruqivos dentro de uma pasta.
+
+	Ls
+
+c) Apresentar o caminho completo da pasta.
+
+	pwd
+
+d) Trocar de pasta.
+	
+	cd
+
+e) Criar umas pasta.
+	
+	mkdir
+
+f) apagar arquivos definitivamente.
+
+	shred
+
+g) apagar pasta definitivamente.
+
+	rm  -”nome da pasta”
+ 
+h) copiar arquivos 
+
+	cp
+
+i) Copiar pasta
+	cp
+
+j) mover arquivos
+
+	mv
+
+k) Mover pasta
+
+	mv
+  
+(l) Renomear pastas.
+
+	mv 
+
+(m) Apresentar o conteúdo de um arquivo.
+
+	cat
+
+(n) Apresentar o tipo de um arquivo.
+
+	file
+
+(o) Limpar a tela do terminal.
+
+	clear
+
+(p) Encontrar ocorrências de palavras-chave em um arquivo-texto.
+
+	apropos
+
+(q) Ordenar informações em um arquivo-texto.
+
+	sort
+
+(r) Substituir ocorrências de palavras-chave em um arquivo-texto.
+
+(s) Conferir se dois arquivos são iguais.
+
+	cmp
+
+(t) Escrever algo na tela.
+
+	echo
