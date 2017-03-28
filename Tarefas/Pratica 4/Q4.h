@@ -1,1 +1,1 @@
-	int tam_arq_texto(char *nome_arquivo);
+	int Q4(char *nome_arquivo);

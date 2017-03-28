@@ -1,16 +1,12 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <string.h>
 
-int main(int argc, const char * argv[]) {
+
+int main(int argc, char * argv[]) {
 
 FILE *fp;
 
-char copy[30];
-
-strcpy(copy, argv[1]);
-
-fp = fopen(strcat(copy, ".txt"),"w");
+fp = fopen(argv[1],"w");
 
 if(!fp)
 {
